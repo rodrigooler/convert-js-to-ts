@@ -1,0 +1,28 @@
+{
+  "name": "convert-js-to-tsx",
+  "description": "Rename .js to .tsx",
+  "version": "0.0.1",
+  "author": "Rodrigo Oler <https://github.com/rodrigooler>",
+  "bugs": {
+    "url": "https://github.com/rodrigooler/convert-js-to-tsx/issues"
+  },
+  "homepage": "https://github.com/rodrigooler/convert-js-to-tsx#readme",
+  "keywords": [
+    ".js",
+    ".jsx",
+    ".tsx",
+    "convert",
+    "files",
+    "javascript",
+    "typescript"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigooler/convert-js-to-tsx.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
